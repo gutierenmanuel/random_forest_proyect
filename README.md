@@ -1,6 +1,8 @@
-# TITLE PROYECT
+# Improved Diabetes Prediction with Random Forest
 
-explanation of the github project
+
+This project aims to enhance the accuracy and robustness of diabetes prediction using machine learning techniques. Initially, a Decision Tree model was employed, but significant improvements were achieved by transitioning to a Random Forest model in this repository: https://github.com/gutierenmanuel/decission_tree_proyect . The dataset used for experimentation is focused on diabetes-related features.
+
 
 ## Content
 
@@ -12,10 +14,7 @@ explanation of the github project
 
 ## Usage
 
-use or tutorial of the project
-
-## Examples
-
+Open the `/src` folder and explore the `src/05_random_forest_develop.ipynb` file.
 
 
 ## Project Structure
